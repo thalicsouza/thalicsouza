@@ -45,6 +45,14 @@ I work with AI/ML, statistical experimentation, NLP, data pipelines and I occasi
 
 ---
 
+## 🌍 Languages
+
+* 🇧🇷 Portuguese — Native 
+* 🇺🇸 English — Fluent
+* 🇪🇸 Spanish — Fluent
+
+---
+
 ## 📫 Let's connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thali.csouza@gmail.com)
