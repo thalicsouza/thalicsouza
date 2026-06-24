@@ -36,6 +36,7 @@ I work with AI/ML, statistical experimentation, NLP, data pipelines and I occasi
 
 | Project | Description |
 |---|---|
+| [poke-gen](https://github.com/thalicsouza/poke-gen) | Generates brand new fictional Pokémon by learning patterns from the real ones |
 | [ab-tests-experimentation](https://github.com/thalicsouza/ab-tests-experimentation) | A/B test framework with statistical significance |
 | [sentiment-analysis](https://github.com/thalicsouza/sentiment-analysis) | NLP sentiment analysis for my undergraduate thesis (ICMC-USP) |
 | [cs2-dash](https://github.com/thalicsouza/cs2-dash) | Dashboard for CS2 data |
